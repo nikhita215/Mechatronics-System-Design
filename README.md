@@ -1,2 +1,2 @@
 # Mechatronics_System_Design
-./graph.png
+![Graph](graph.png)
