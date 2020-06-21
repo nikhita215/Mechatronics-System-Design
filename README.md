@@ -1,3 +1,3 @@
 # Mechatronics_System_Design
-![Graph](./images/physical_model.JPG)
 
+<img src="/images/physical_model.JPG" width="250">
