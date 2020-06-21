@@ -1,3 +1,3 @@
 # Mechatronics_System_Design
 
-<img src="/images/physical_model.JPG" width="250">
+<img src="/images/physical_model.JPG" width="400">
