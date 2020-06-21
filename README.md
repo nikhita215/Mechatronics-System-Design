@@ -20,7 +20,7 @@ Run the Matlab script which contains various parameters for the Motor, Horizonta
 
 Results produced after combining the 2 controllers: 
 
-<img src="/images/Horizontal_angle.jpg" width="450">  <img src="/images/Pendulum_angle.jpg" width="450">
+<img src="/images/Horizontal_angle.jpg" width="400">  <img src="/images/Pendulum_angle.jpg" width="400">
 
 While tuning the LQR gains less weightage is given to the postion of the horizontal arm, hence theta is not equal to 0 when the system is stabilized. As you can see from the plot of the Pendulum Arm angle, it takes 2 oscillations by the swing-up controller, before the system switches to balancing controller.
 
